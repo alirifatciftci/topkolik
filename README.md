@@ -1,4 +1,5 @@
-Bu projede maç verilerini API üzerinden çekiyorum. Kullanılan API'nin istek limiti ve veri kısıtlaması nedeniyle sadece belirli maçlar alınabiliyor. Proje, temel maç bilgilerini çekmek ve analiz etmek amacıyla geliştirilmiştir.
+Bu projede maç verilerini API üzerinden çekiyorum. Kullanılan API'nin istek limiti ve veri kısıtlaması nedeniyle sadece belirli maçlar alınabiliyor. 
+Proje, temel maç bilgilerini çekmek ve analiz etmek amacıyla geliştirilmiştir.
 ![Screenshot_5](https://github.com/user-attachments/assets/d4119368-7631-4359-b0c2-a4724f160ee1)
 
 
